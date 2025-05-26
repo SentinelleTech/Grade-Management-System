@@ -1,0 +1,4 @@
+Brian Kamau : 50
+John Doe : 77
+Alex Njagi : 56
+Jane Doe : 80
